@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Washington State Office of Financial Management, Forecasting Division and U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
+				<pubdate>2010</pubdate>
+				<title>OFM 2000-2013 SAEP Population and Housing Esimates for 2010 Census Block Groups</title>
+				<edition>2010</edition>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.census.gov/geo/www/tiger</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Block Groups (BGs) are defined before tabulation block delineation and numbering, but are clusters of blocks within the same census tract that have the same first digit of their 4-digit census block number from the same decennial census. For example, Census 2000 tabulation blocks 3001, 3002, 3003,.., 3999 within Census 2000 tract 1210.02 are also within BG 3 within that census tract. Census 2000 BGs generally contained between 600 and 3,000 people, with an optimum size of 1,500 people. Most BGs were delineated by local participants in the Census Bureau's Participant Statistical Areas Program (PSAP). The Census Bureau delineated BGs only where the PSAP participant declined to delineate BGs or where the Census Bureau could not identify any local PSAP participant. A BG usually covers a contiguous area. Each census tract contains at least one BG, and BGs are uniquely numbered within census tract. Within the standard census geographic hierarchy, BGs never cross county or census tract boundaries, but may cross the boundaries of other geographic entities like county subdivisions, places, urban areas, voting districts, congressional districts, and American Indian / Alaska Native / Native Hawaiian areas. BGs have a valid code range of 0 through 9. BGs coded 0 were intended to only include water area, no land area, and they are generally in territorial seas, coastal water, and Great Lakes water areas. For Census 2000, rather than extending a census tract boundary into the Great Lakes or out to the U.S. nautical three-mile limit, the Census Bureau delineated some census tract boundaries along the shoreline or just offshore. The Census Bureau assigned a default census tract number of 0 and BG of 0 to these offshore, water-only areas not included in regularly numbered census tract areas.</abstract>
+			<purpose>The Washington State Office of Financial Management Small Area Estimate Program produces annual population and housing estimates for distinct geographic summary levels and distributes them in shapefile format for purposes of statistical enumeration, cartographic display and analysis.</purpose>
+			<Subject_Entity>Washington(53)</Subject_Entity>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>201001</begdate>
+					<enddate>201007</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>Publication Date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>TIGER/Line Shapefiles are extracted from the Census MAF/TIGER database. No changes or updates will be made to this version of the TIGER/Line Shapefiles. Future releases of TIGER/Line Shapefiles will reflect updates made to the Census MAF/TIGER database.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>579552.666809</westbc>
+				<eastbc>2551106.850295</eastbc>
+				<northbc>81835.082450</northbc>
+				<southbc>1355592.778933</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>Boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>State or equivalent entity</themekey>
+				<themekey>Polygon</themekey>
+				<themekey>Block Group</themekey>
+				<themekey>BG</themekey>
+			</theme>
+			<place>
+				<placekt>INCITS.38-200x (R2004),INCITS.31-200x (R2007),INCITS.454-200x,INCITS 455-200x,INCITS 446-2008</placekt>
+				<placekey>United States</placekey>
+				<placekey>U.S.</placekey>
+				<placekey>State or Equivalent Entity</placekey>
+				<placekey>Washington</placekey>
+				<placekey>WA</placekey>
+				<placekey>53</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>Washington State Office of Financial Management: The Washington State Office of Financial Management shall not be liable for any activity involving these data with regard to lost profits or savings or any other consequential damages; or the fitness for use of the data for a particular purpose; or the installation of the data, its use, or the results obtained. U.S. Department of Commerce, U.S. Census Bureau: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.</useconst>
+		<Title_13_Restrictions>Yes, the data are free from Title 13 restrictions</Title_13_Restrictions>
+		<ptcontac>
+			<!--UPDATE-->
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Washington State Office of Financial Management, Forecasting Division</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>210 11th Ave SW</address>
+					<city>Olympia</city>
+					<state>WA</state>
+					<postal>98501</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>360-902-0599</cntvoice>
+				<cntfax>360-725-5174</cntfax>
+				<cntemail>ofm.forecasting@ofm.wa.gov</cntemail>
+			</cntinfo>
+			<cntinfo>
+				<cntorgs>
+					<cntorg>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch</cntorg>
+				</cntorgs>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>4600 Silver Hill Road, Stop 7400</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20233-7400</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>301-763-1128</cntvoice>
+				<cntfax>301-763-4710</cntfax>
+				<cntemail>geo.tiger@census.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<Data_Set_Character_Set>8859part1</Data_Set_Character_Set>
+	<Data_Set_Language>eng</Data_Set_Language>
+	<dataqual>
+		<attracc>
+			<attraccr>Accurate against Federal Information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names. The remaining attribute information has been examined but has not been fully tested for accuracy.</attraccr>
+		</attracc>
+		<logic>The Census Bureau performed automated tests to ensure logical consistency and limits of shapefiles. Segments making up the outer and inner boundaries of a polygon tie end-to-end to completely enclose the area. All polygons are tested for closure. The Census Bureau uses its internally developed geographic update system to enhance and modify spatial and attribute data in the Census MAF/TIGER database. Standard geographic codes, such as FIPS codes for states, counties, municipalities, county subdivisions, places, American Indian/Alaska Native/Native Hawaiian areas, and congressional districts are used when encoding spatial entities. The Census Bureau performed spatial data tests for logical consistency of the codes during the compilation of the original Census MAF/TIGER database files. Most of the codes for geographic entities except states, counties, urban areas, Core Based Statistical Areas (CBSAs), American Indian Areas (AIAs), and congressional districts were provided to the Census Bureau by the USGS, the agency responsible for maintaining FIPS 55. Feature attribute information has been examined but has not been fully tested for consistency. For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polygon SDTS Point and Vector Object Type reflects the number of records in the shapefile attribute table. For multi-polygon features, only one attribute record exists for each multi-polygon rather than one attribute record per individual G-polygon component of the multi-polygon feature. TIGER/Line Shapefile multi-polygons are an exception to the G-polygon object type classification. Therefore, when multi-polygons exist in a shapefile, the object count will be less than the actual number of G-polygons.</logic>
+		<complete>Data completeness of the TIGER/Line Shapefiles reflects the contents of the Census MAF/TIGER database at the time the TIGER/Line Shapefiles were created.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Washington State Office of Financial Management, Forecasting Division and U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
+						<pubdate>Unpublished material</pubdate>
+						<title>Census MAF/TIGER database</title>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>201001</begdate>
+							<enddate>201007</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>MAF/TIGER</srccitea>
+				<srccontr>The selected geographic and cartographic information (line segments) are derived from the U.S. Census Bureau's Master Address File Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) database.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>TIGER/Line Shapefiles are extracted from the Census MAF/TIGER database by nation, state, county, and entity. Census MAF/TIGER data for all of the aforementioned geographic entities are then distributed among the shapefiles each containing attributes for line, polygon, or landmark geographic data.</procdesc>
+				<srcused>Census MAF/TIGER</srcused>
+				<procdate>2010</procdate>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<indspref>Federal Information Processing Standards (FIPS), ANSI, and feature names.</indspref>
+		<direct>Vector</direct>
+		<ptvctinf><esriterm Name="saep_bg10"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">4783</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn>North American Datum of 1983 in the 48 contiguous states, the District of Columbia, Alaska, Hawaii (only Oahu Island within Honolulu County, HI (15003)), Puerto Rico, and the U.S. Virgin Islands. Regional datums are used in the Pacific Island Areas (American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands) and most of Hawaii. The datums used in the remainder of Hawaii are as follows: Hawaii County, HI (15001), Old Hawaiian Datum; Honolulu County, HI (15003), local astronomic datums for all islands northwest of 161 degrees west longitude; Kalawao County, HI (15005), Old Hawaiian Datum; Kauai County, HI (15007), Old Hawaiian Datum for Kauai Island and local astronomic datum for Kaula Rock; Maui County, HI (15009), Old Hawaiian Datum. The datums used in American Samoa are as follows: Eastern District, AS (60010), American Samoa Datum of 1962; Manu'a District, AS (60020), American Samoa Datum of 1962; Rose Island, AS (60030), local astronomic datum; Swains Island, AS (60040), local astronomic datum 1939; Western District, AS (60050), American Samoa Datum of 1962. The Guam Datum of 1963 is used in Guam (66010). The datums used in the Commonwealth of the Northern Mariana Islands are as follows: Northern Islands Municipality (69085), Guam Datum of 1963 (Agrihan, Alamagan, Anatahan, Gugan, Medinilla, Pagan, and Sarigan Islands) and local astronomic datums (Asuncion, Maug, and Farallon De Pajaros Islands); Rota Municipality (69100), Guam Datum of 1963; Saipan Municipality (69110), Guam Datum of 1963; Tinian Municipality (69120), Guam Datum of 1963.</horizdn>
+				<ellips>Geodetic Reference System 80 where the datum is the North American Datum of 1983.</ellips>
+				<semiaxis>6378137</semiaxis>
+				<denflat>298257</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1983_HARN</geogcsn>
+				<projcsn Sync="TRUE">NAD_1983_HARN_StatePlane_Washington_South_FIPS_4602_Feet</projcsn>
+			</cordsysn>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<plandu Sync="TRUE">survey feet</plandu>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+				</planci>
+			</planar>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="saep_bg10">
+			<enttyp>
+				<enttypl>saep_bg10.shp</enttypl>
+				<enttypd>2010 Census Block Group</enttypd>
+				<enttypds>U.S. Census Bureau</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">4783</enttypc>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STATEFP10</attrlabl>
+				<attrdef>2010 Census state Federal Information Processing Standards (FIPS) codes</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2)</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATEFP10</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>COUNTYFP10</attrlabl>
+				<attrdef>2010 Census county Federal Information Processing Standards (FIPS) code</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4)</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTYFP10</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>TRACTCE10</attrlabl>
+				<attrdef>2010 Census census tract code</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>000000</edomv>
+						<edomvd>Water tract in some coastal and Great Lakes water and territorial sea</edomvd>
+						<edomvds>U.S. Census</edomvds>
+					</edom>
+					<edom>
+						<edomv>000100 to 998999</edomv>
+						<edomvd>Census tract number</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRACTCE10</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>BLKGRPCE10</attrlabl>
+				<attrdef>2010 Census block group number</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Water block group</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>1 to 9</edomv>
+						<edomvd>Census 2000 block group code</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">BLKGRPCE10</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>GEOID10</attrlabl>
+				<attrdef>Census block group identifier; a concatenation of 2010 Census state Federal Information Processing Standards (FIPS) code, county FIPS code, census tract code, and block group number</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2), INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4) and the tract code that appears in TRACTCE10 and the census block group number that appears in BLKGRPCE10</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">GEOID10</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>NAMELSAD10</attrlabl>
+				<attrdef>2010 Census translated legal/statistical area description and the block group number</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<udom>Refer to the block group number that appears in BLKGRPCE00 and translated legal/statistical area description code BG, Block Group</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NAMELSAD10</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">13</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>MTFCC10</attrlabl>
+				<attrdef>MAF/TIGER feature class code</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>G5030</edomv>
+						<edomvd>Block Group</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">MTFCC10</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">5</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>FUNCSTAT10</attrlabl>
+				<attrdef>2010 Census functional status</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Statistical entity</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FUNCSTAT10</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>INTPTLAT10</attrlabl>
+				<attrdef>2010 Census latitude of the internal point</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>00</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">INTPTLAT10</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atprecis Sync="TRUE">11</atprecis>
+				<attscale Sync="TRUE">7</attscale>
+			</attr>
+			<attr>
+				<attrlabl>INTPTLON10</attrlabl>
+				<attrdef>2010 Census longitude of the internal point</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>00</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">INTPTLON10</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atprecis Sync="TRUE">11</atprecis>
+				<attscale Sync="TRUE">7</attscale>
+			</attr>
+			<attr>
+				<attrlabl>ALANDM</attrlabl>
+				<attrdef>2010 Census land area (square meters)</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0 to 9,999,999,999,999</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">ALANDM</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">14</attwidth>
+				<atprecis Sync="TRUE">14</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>AWATERM</attrlabl>
+				<attrdef>2010 Census water area (square meters)</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0 to 9,999,999,999,999</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">AWATERM</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">14</attwidth>
+				<atprecis Sync="TRUE">14</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>ALANDMI</attrlabl>
+				<attrdef>2010 Census land area (square miles)</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0 to 9,999,999,999,999</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">ALANDMI</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">9</atprecis>
+				<attscale Sync="TRUE">3</attscale>
+			</attr>
+			<attr>
+				<attrlabl>AWATERMI</attrlabl>
+				<attrdef>2010 Census water area (square miles)</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0 to 9,999,999,999,999</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">AWATERMI</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">9</atprecis>
+				<attscale Sync="TRUE">3</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Version</attrlabl>
+				<attalias Sync="TRUE">Version</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">20</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Small Area Estimate Program Version Date</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>POP2000</attrlabl>
+				<attalias>POP2000</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Total Population 2000</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2001</attrlabl>
+				<attalias>POP2001</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2001</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2002</attrlabl>
+				<attalias>POP2002</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2002</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2003</attrlabl>
+				<attalias>POP2003</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2003</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2004</attrlabl>
+				<attalias>POP2004</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2004</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2005</attrlabl>
+				<attalias>POP2005</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2005</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2006</attrlabl>
+				<attalias>POP2006</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2006</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2007</attrlabl>
+				<attalias>POP2007</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2007</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2008</attrlabl>
+				<attalias>POP2008</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2008</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2009</attrlabl>
+				<attalias>POP2009</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2009</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2010</attrlabl>
+				<attalias>POP2010</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2011</attrlabl>
+				<attalias>POP2011</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2011</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2012</attrlabl>
+				<attalias>POP2012</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2012</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>POP2013</attrlabl>
+				<attalias>POP2013</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Population 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>CPOP00_10</attrlabl>
+				<attalias>CPOP00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Population 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCPOP00_10</attrlabl>
+				<attalias>PCPOP00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Population 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>CPOP10_13</attrlabl>
+				<attalias>CPOP10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Population 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCPOP10_13</attrlabl>
+				<attalias>PCPOP10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Population 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>HHP2000</attrlabl>
+				<attalias>HHP2000</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2000</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2001</attrlabl>
+				<attalias>HHP2001</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2001</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2002</attrlabl>
+				<attalias>HHP2002</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2002</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2003</attrlabl>
+				<attalias>HHP2003</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2003</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2004</attrlabl>
+				<attalias>HHP2004</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2004</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2005</attrlabl>
+				<attalias>HHP2005</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2005</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2006</attrlabl>
+				<attalias>HHP2006</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2006</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2007</attrlabl>
+				<attalias>HHP2007</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2007</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2008</attrlabl>
+				<attalias>HHP2008</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2008</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2009</attrlabl>
+				<attalias>HHP2009</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2009</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2010</attrlabl>
+				<attalias>HHP2010</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2011</attrlabl>
+				<attalias>HHP2011</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2011</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2012</attrlabl>
+				<attalias>HHP2012</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2012</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HHP2013</attrlabl>
+				<attalias>HHP2013</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Household Population 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>CHHP00_10</attrlabl>
+				<attalias>CHHP00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Household Population 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCHHP00_10</attrlabl>
+				<attalias>PCHHP00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Household Population 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>CHHP10_13</attrlabl>
+				<attalias>CHHP10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Household Population 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCHHP10_13</attrlabl>
+				<attalias>PCHHP10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Household Population 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>GQ2000</attrlabl>
+				<attalias>GQ2000</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2000</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2001</attrlabl>
+				<attalias>GQ2001</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2001</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2002</attrlabl>
+				<attalias>GQ2002</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2002</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2003</attrlabl>
+				<attalias>GQ2003</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2003</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2004</attrlabl>
+				<attalias>GQ2004</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2004</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2005</attrlabl>
+				<attalias>GQ2005</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2005</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2006</attrlabl>
+				<attalias>GQ2006</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2006</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2007</attrlabl>
+				<attalias>GQ2007</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2007</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2008</attrlabl>
+				<attalias>GQ2008</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2008</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2009</attrlabl>
+				<attalias>GQ2009</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2009</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2010</attrlabl>
+				<attalias>GQ2010</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2011</attrlabl>
+				<attalias>GQ2011</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2011</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2012</attrlabl>
+				<attalias>GQ2012</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2012</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>GQ2013</attrlabl>
+				<attalias>GQ2013</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Group Quarter Population 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>CGQ00_10</attrlabl>
+				<attalias>CGQ00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Group Quarter Population 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCGQ00_10</attrlabl>
+				<attalias>PCGQ00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Group Quarter Population 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>CGQ10_13</attrlabl>
+				<attalias>CGQ10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Group Quarter Population 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCGQ10_13</attrlabl>
+				<attalias>PCGQ10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Group Quarter Population 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>HU2000</attrlabl>
+				<attalias>HU2000</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2000</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2001</attrlabl>
+				<attalias>HU2001</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2001</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2002</attrlabl>
+				<attalias>HU2002</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2002</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2003</attrlabl>
+				<attalias>HU2003</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2003</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2004</attrlabl>
+				<attalias>HU2004</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2004</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2005</attrlabl>
+				<attalias>HU2005</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2005</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2006</attrlabl>
+				<attalias>HU2006</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2006</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2007</attrlabl>
+				<attalias>HU2007</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2007</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2008</attrlabl>
+				<attalias>HU2008</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2008</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2009</attrlabl>
+				<attalias>HU2009</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2009</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2010</attrlabl>
+				<attalias>HU2010</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2011</attrlabl>
+				<attalias>HU2011</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2011</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2012</attrlabl>
+				<attalias>HU2012</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2012</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>HU2013</attrlabl>
+				<attalias>HU2013</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Housing Units 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>CHU00_10</attrlabl>
+				<attalias>CHU00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Housing Units 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCHU00_10</attrlabl>
+				<attalias>PCHU00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Housing Units 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>CHU10_13</attrlabl>
+				<attalias>CHU10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Housing Units 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCHU10_13</attrlabl>
+				<attalias>PCHU10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Housing Units 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>OHU2000</attrlabl>
+				<attalias>OHU2000</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Total Occuipied Housing Units 2000</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2001</attrlabl>
+				<attalias>OHU2001</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2001</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2002</attrlabl>
+				<attalias>OHU2002</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2002</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2003</attrlabl>
+				<attalias>OHU2003</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2003</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2004</attrlabl>
+				<attalias>OHU2004</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2004</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2005</attrlabl>
+				<attalias>OHU2005</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2005</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2006</attrlabl>
+				<attalias>OHU2006</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2006</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2007</attrlabl>
+				<attalias>OHU2007</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2007</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2008</attrlabl>
+				<attalias>OHU2008</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2008</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2009</attrlabl>
+				<attalias>OHU2009</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2009</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2010</attrlabl>
+				<attalias>OHU2010</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2011</attrlabl>
+				<attalias>OHU2011</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2011</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2012</attrlabl>
+				<attalias>OHU2012</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2012</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>OHU2013</attrlabl>
+				<attalias>OHU2013</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Total Occupied Housing Units 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>COHU00_10</attrlabl>
+				<attalias>COHU00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Occupied Housing Units 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCOHU00_10</attrlabl>
+				<attalias>PCOHU00_10</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Occupied Housing Units 2000 - 2010</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+			<attr>
+				<attrlabl>COHU10_13</attrlabl>
+				<attalias>COHU10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>12</attwidth>
+				<attrdef>SAEP Estimated Change in Total Occupied Housing Units 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">3</attscale></attr>
+			<attr>
+				<attrlabl>PCOHU10_13</attrlabl>
+				<attalias>PCOHU10_13</attalias>
+				<attrtype>Number</attrtype>
+				<attwidth>8</attwidth>
+				<attrdef>SAEP Estimated Percent Change in Total Occupied Housing Units 2010 - 2013</attrdef>
+				<attrdefs>Washington State Office of Financial Management, Forecasting Division</attrdefs>
+				<atprecis Sync="TRUE">7</atprecis><attscale Sync="TRUE">2</attscale></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<!--UPDATE-->
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Washington State Office of Financial Management, Forecasting Division</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>210 11th Ave SW</address>
+					<city>Olympia</city>
+					<state>WA</state>
+					<postal>98501</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>360-902-0599</cntvoice>
+				<cntfax>360-725-5174</cntfax>
+				<cntemail>ofm.forecasting@ofm.wa.gov</cntemail>
+			</cntinfo>
+			<cntinfo>
+				<cntorgs>
+					<cntorg>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch</cntorg>
+				</cntorgs>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>4600 Silver Hill Road, Stop 7400</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20233-7400</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>301-763-1128</cntvoice>
+				<cntfax>301-763-4710</cntfax>
+				<cntemail>geo.tiger@census.gov</cntemail>
+			</cntinfo>
+			<!--UPDATE-->
+		</distrib>
+		<distliab>No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files. The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>TGRSHP (compressed)</formname>
+					<filedec>PK-ZIP, version 1.93 A or higher</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.census.gov/geo/www/tiger</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+					<offoptn>
+						<offmedia>DVD-ROM (Only if offered offline)</offmedia>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>The online copy of the TIGER/Line files may be accessed without charge.</fees>
+			<ordering>To obtain more information about ordering TIGER/Line shapefiles visit http://www.census.gov/geo/www/tiger</ordering>
+		</stdorder>
+		<techpreq>The TIGER/Line shapefiles contain geographic data only and do not include display mapping software or statistical data. For information on how to use the TIGER/Line shapefile data with specific software package users shall contact the company that produced the software.</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd>20100507</metd>
+		<metc>
+			<!--UPDATE-->
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Washington State Office of Financial Management, Forecasting Division</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>&gt;210 11th Ave SW</address>
+					<city>Olympia</city>
+					<state>WA</state>
+					<postal>98501</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>360-902-0599</cntvoice>
+				<cntfax>360-725-5174</cntfax>
+				<cntemail>ofm.forecasting@ofm.wa.gov</cntemail>
+			</cntinfo>
+			<cntinfo>
+				<cntorgs>
+					<cntorg>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch</cntorg>
+				</cntorgs>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>4600 Silver Hill Road, Stop 7400</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20233-7400</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>301-763-1128</cntvoice>
+				<cntfax>301-763-4710</cntfax>
+				<cntemail>geo.tiger@census.gov</cntemail>
+			</cntinfo>
+			<!--UPDATE-->
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<Metadata_Character_Set>8859part1</Metadata_Character_Set>
+		<Metadata_File_Identifier>saep_bg10.shp.xml</Metadata_File_Identifier>
+		<Metadata_Language>eng</Metadata_Language>
+	</metainfo>
+	<dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.1.3187</envirDesc><dataLang><languageCode value="eng" Sync="TRUE"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></dataLang><idCitation><resTitle Sync="TRUE">saep_bg10</resTitle><presForm><PresFormCd value="005" Sync="TRUE"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd value="001" Sync="TRUE"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="search"><exTypeCode Sync="TRUE">1</exTypeCode><westBL Sync="TRUE">-124.915068</westBL><eastBL Sync="TRUE">-116.708879</eastBL><northBL Sync="TRUE">49.049333</northBL><southBL Sync="TRUE">45.481427</southBL></GeoBndBox></geoEle></dataExt></dataIdInfo><mdLang><languageCode value="eng" Sync="TRUE"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></mdLang><mdChar><CharSetCd value="006" Sync="TRUE"></CharSetCd></mdChar><Esri><DataProperties><itemProps><itemName Sync="TRUE">saep_bg10</itemName><imsContentType Sync="TRUE">002</imsContentType><nativeExtBox><westBL Sync="TRUE">579552.666809</westBL><eastBL Sync="TRUE">2551106.850295</eastBL><southBL Sync="TRUE">81835.082450</southBL><northBL Sync="TRUE">1355592.778933</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemSize Sync="TRUE">23.784</itemSize><itemLocation><linkage Sync="TRUE">file://\\ofmapoly004\fc\POP\SAEP\Website\2013_09_19\shape\saep_bg10.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_North_American_1983_HARN</geogcsn><csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits><projcsn Sync="TRUE">NAD_1983_HARN_StatePlane_Washington_South_FIPS_4602_Feet</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_HARN_StatePlane_Washington_South_FIPS_4602_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983_HARN&amp;quot;,DATUM[&amp;quot;D_North_American_1983_HARN&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,1640416.666666667],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-120.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,45.83333333333334],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,47.33333333333334],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,45.33333333333334],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,2927]]&lt;/WKT&gt;&lt;XOrigin&gt;-117498300&lt;/XOrigin&gt;&lt;YOrigin&gt;-98850300&lt;/YOrigin&gt;&lt;XYScale&gt;37801315.839189909&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333331&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;2927&lt;/WKID&gt;&lt;LatestWKID&gt;2927&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef></DataProperties><SyncDate>20130926</SyncDate><SyncTime>13411400</SyncTime><ModDate>20130926</ModDate><ModTime>13411400</ModTime></Esri><distInfo><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">23.784</transSize></distTranOps></distInfo><mdHrLv><ScopeCd value="005" Sync="TRUE"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><refSysInfo><RefSystem><refSysID><identCode code="2927" Sync="TRUE"></identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">7.11.2</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="saep_bg10"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4783</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20130926</mdDateSt></metadata>
